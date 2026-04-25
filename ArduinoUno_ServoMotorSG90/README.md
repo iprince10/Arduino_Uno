@@ -39,7 +39,7 @@ This project demonstrates basic control of an SG90 servo motor using Arduino Uno
 ## Working Image
 
 <p align="left">
-  <img src="https://github.com/iprince10/Arduino_Uno/blob/main/ArduinoUno_ServoMotorSG90/ArduinoUno_Servo_SG90.jpeg" height="600"/>
+  <img src="https://github.com/iprince10/Arduino-Uno/blob/main/ArduinoUno_ServoMotorSG90/ArduinoUno_Servo_SG90.jpeg" height="600"/>
 </p>
 
 ## Owner and Licence
