@@ -49,11 +49,26 @@ This project is a radar-based object detection system using Arduino Uno. It uses
 - Processing creates a radar-style visualization showing object position and distance.  
 - This system simulates a real radar used in detection and monitoring systems.  
 
-## Working Image
+## Project Images
 
-<p align="left">
-  <img src="" height="600"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/iprince10/Arduino-Uno/raw/main/UltraSonic_Radar_System/UltraSonic_Radar_System_Image1.jpeg" height="250">
+    </td>
+    <td align="center">
+      <img src="https://github.com/iprince10/Arduino-Uno/raw/main/UltraSonic_Radar_System/UltraSonic_Radar_System_Image2.jpeg" height="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/iprince10/Arduino-Uno/raw/main/UltraSonic_Radar_System/UltraSonic_Radar_System_Image3.jpeg" height="250">
+    </td>
+    <td align="center">
+      <img src="https://github.com/iprince10/Arduino-Uno/raw/main/UltraSonic_Radar_System/UltraSonic_Radar_System_Graph.png" height="250">
+    </td>
+  </tr>
+</table>
 
 ## Owner and Licence
 Made by **Prince Jha** . This project is free source and open for all :)
