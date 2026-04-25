@@ -1,2 +1,2 @@
-# Arduino_Uno
-This repo is for my embedded project using arduino Uno microcontroller board. 
+# Arduino-Uno
+This repo is for my embedded project using Arduino Uno microcontroller board. 
