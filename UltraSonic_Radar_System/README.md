@@ -58,8 +58,8 @@ This project simulates the behaviour of a real-world radar system. The servo swe
 |---|---|
 | VCC | 5V |
 | GND | GND |
-| TRIG | Digital Pin 10 |
-| ECHO | Digital Pin 11 |
+| TRIG | Digital Pin 6 |
+| ECHO | Digital Pin 7 |
 
 ### SG90 Servo Motor
 
